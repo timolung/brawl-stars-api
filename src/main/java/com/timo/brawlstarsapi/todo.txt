@@ -1,0 +1,7 @@
+- Add to GitHub
+- Add Unit Tests
+- Add Local DB
+- User Docker
+- Add Functional Tests
+- Create FrontEnd
+- Deploy to AWS?

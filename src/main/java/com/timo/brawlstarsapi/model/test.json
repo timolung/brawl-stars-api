@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "battleTime": "20231215T205048.000Z",
+      "event": {
+        "id": 15000024,
+        "mode": "brawlBall",
+        "map": "Backyard Bowl"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "victory",
+        "duration": 150,
+        "starPlayer": {
+          "tag": "#2V0QJUCVY",
+          "name": "𝙴𝚕𝚒𝚡🐣💛",
+          "brawler": {
+            "id": 16000015,
+            "name": "PIPER",
+            "power": 11,
+            "trophies": 13
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#PV0CGUJ",
+              "name": "๖ۣۜAgͥนsͣtͫᎠD",
+              "brawler": {
+                "id": 16000017,
+                "name": "TARA",
+                "power": 11,
+                "trophies": 12
+              }
+            },
+            {
+              "tag": "#2V0QJUCVY",
+              "name": "𝙴𝚕𝚒𝚡🐣💛",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#YULGGJCGL",
+              "name": "xinbun",
+              "brawler": {
+                "id": 16000005,
+                "name": "SPIKE",
+                "power": 11,
+                "trophies": 11
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#Q9Q288C0",
+              "name": "‘opjope’ 🥀",
+              "brawler": {
+                "id": 16000045,
+                "name": "STU",
+                "power": 11,
+                "trophies": 12
+              }
+            },
+            {
+              "tag": "#RLUJU2GV",
+              "name": "ETChan",
+              "brawler": {
+                "id": 16000012,
+                "name": "CROW",
+                "power": 11,
+                "trophies": 11
+              }
+            },
+            {
+              "tag": "#89829UPLL",
+              "name": "Gt|Anthony❤️‍🔥",
+              "brawler": {
+                "id": 16000001,
+                "name": "COLT",
+                "power": 11,
+                "trophies": 12
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20231215T204758.000Z",
+      "event": {
+        "id": 15000024,
+        "mode": "brawlBall",
+        "map": "Backyard Bowl"
+      },
+      "battle": {
+        "mode": "brawlBall",
+        "type": "soloRanked",
+        "result": "defeat",
+        "duration": 138,
+        "starPlayer": null,
+        "teams": [
+          [
+            {
+              "tag": "#PV0CGUJ",
+              "name": "๖ۣۜAgͥนsͣtͫᎠD",
+              "brawler": {
+                "id": 16000017,
+                "name": "TARA",
+                "power": 11,
+                "trophies": 12
+              }
+            },
+            {
+              "tag": "#2V0QJUCVY",
+              "name": "𝙴𝚕𝚒𝚡🐣💛",
+              "brawler": {
+                "id": 16000015,
+                "name": "PIPER",
+                "power": 11,
+                "trophies": 13
+              }
+            },
+            {
+              "tag": "#YULGGJCGL",
+              "name": "xinbun",
+              "brawler": {
+                "id": 16000005,
+                "name": "SPIKE",
+                "power": 11,
+                "trophies": 11
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#Q9Q288C0",
+              "name": "‘opjope’ 🥀",
+              "brawler": {
+                "id": 16000045,
+                "name": "STU",
+                "power": 11,
+                "trophies": 12
+              }
+            },
+            {
+              "tag": "#RLUJU2GV",
+              "name": "ETChan",
+              "brawler": {
+                "id": 16000012,
+                "name": "CROW",
+                "power": 11,
+                "trophies": 11
+              }
+            },
+            {
+              "tag": "#89829UPLL",
+              "name": "Gt|Anthony❤️‍🔥",
+              "brawler": {
+                "id": 16000001,
+                "name": "COLT",
+                "power": 11,
+                "trophies": 12
+              }
+            }
+          ]
+        ]
+      }
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}
