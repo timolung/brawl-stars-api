@@ -1,6 +1,6 @@
-- Add to GitHub
-- Add Unit Tests
-- Add Local DB
+- Add Unit Tests (JUnit)
+- Add Local DB (H2 & Hibernate?)
+- Maven?
 - User Docker
 - Add Functional Tests
 - Create FrontEnd

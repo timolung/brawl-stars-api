@@ -15,12 +15,10 @@ import java.io.*;
 
 @Service
 public class PlayerBattleLogService {
-
     @Autowired
     private RestClient restClient;
     @Value("${oauth.bearer.token}")
     private String bearerToken;
-
     @Value("${brawl.stars.api.endpoint.battle-log}")
     String battleLogEndpoint;
 
@@ -70,9 +68,7 @@ public class PlayerBattleLogService {
         BattleLogStats res = new BattleLogStats(starPlayerRatio, winRatio);
         ObjectWriter ow = new ObjectMapper().writer().withDefaultPrettyPrinter();
 
-
         return ow.writeValueAsString(res);
-
     }
 
 }
